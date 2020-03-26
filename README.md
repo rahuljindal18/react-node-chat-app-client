@@ -1,8 +1,8 @@
-##frontend
+Frontend
 
 https://competent-hawking-9f1cf7.netlify.com/ 
 
-##backend
+Backend
 
 https://react-node-socket-chat-app-be.herokuapp.com/
 
