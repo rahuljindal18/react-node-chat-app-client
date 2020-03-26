@@ -1,3 +1,11 @@
+##frontend
+
+https://competent-hawking-9f1cf7.netlify.com/ 
+
+##backend
+
+https://react-node-socket-chat-app-be.herokuapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
